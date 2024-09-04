@@ -72,7 +72,4 @@ POST /api/clients/ - Creates a new client.
 GET /api/clients/<id>/ - Retrieves a specific client.
 PUT /api/clients/<id>/ - Updates a specific client.
 DELETE /api/clients/<id>/ - Deletes a specific client.
-Projects:
-Same operations, just replace clients with projects.
-🔥 What's Next?
-Deploy it: Put your Django app on the web using platforms like Heroku, AWS, or DigitalOcean.
+
